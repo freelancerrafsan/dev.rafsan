@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev.rafsan/static/css/main.fda9bebd.css",
+    "main.js": "/dev.rafsan/static/js/main.6bdc1e29.js",
+    "static/media/bannerRight.png": "/dev.rafsan/static/media/bannerRight.7773574d0557b8330eee.png",
+    "static/media/logo.png": "/dev.rafsan/static/media/logo.2c21c8d0a4bf5a0c8c44.png",
+    "index.html": "/dev.rafsan/index.html",
+    "main.fda9bebd.css.map": "/dev.rafsan/static/css/main.fda9bebd.css.map",
+    "main.6bdc1e29.js.map": "/dev.rafsan/static/js/main.6bdc1e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda9bebd.css",
+    "static/js/main.6bdc1e29.js"
+  ]
+}
